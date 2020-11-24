@@ -1,6 +1,7 @@
 # Filtros Espaciales 
 
-[Originally created in October 2017]
+[Originally created in October 2017]   
+**Note: This was an assignment developed for my Digital Image Processing course.**
 
 Los **filtros espaciales** tienen como objetivo modificar la contribución de determinados rangos de frecuencias de una imagen. El término espacial se re ere a que el filtro se aplica directamente a la imagen y no a una transformada de la misma, es decir, el nivel de gris de un pixel se obtiene directamente en función del valor de sus vecinos. La convolución es la operación con la cual se hace filtrado espacial.
 
